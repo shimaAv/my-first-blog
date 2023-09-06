@@ -19,5 +19,5 @@ class Post(models.Model):
     def __sdsstr__(self): 
         return self.title
 
-    def shima(self): 
-        return "shima"
+    # def shima(self): 
+    #     return "shima"
